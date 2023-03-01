@@ -1,7 +1,9 @@
-{"title":"Admin",
-"mes":"sever ပြင်ဆင်မှုများပြုလုပ်နေပါသဖြင့် လတ်တလောတွင် video တွေ တိုက်ရိုက်ကြည့်ရှု၍မရနိုင်ပါ",
-"button":"Ok",
-"blink":"",
+{"title":"Please Update New Version",
+"mes":"ဗားရှင်းအသစ်ကိုအသုံးပြုမှသာ video တွေ တိုက်ရိုက်ကြည့်ရှုလို့ရပါတော့မည်
+
+ပိုမိုကောင်းမွန်စွာ အသုံးပြုနိုင်ရန် version အသစ်ကို ယခုပဲ update ပြုလုပ်လိုက်ပါ",
+"button":"Update Now",
+"blink":"https://play.google.com/store/apps/details?id=com.bluepro.hzt",
 "review":"fb://profile/100086520747420",
 "retext":"BlueTV Fb Page အသစ်လေးကို Like လုပ်ထားကြပါ",
 "miniblue":"https://raw.githubusercontent.com/apppro007/photo/main/PicsArt_02-21-12.35.57.jpg",
